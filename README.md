@@ -1,3 +1,4 @@
 # Foo
 
 - foo
+- bar
