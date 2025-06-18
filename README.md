@@ -1,4 +1,7 @@
 # Foo
 
+- foo
+- bar
 - baz
-- baz
+
+foo bar baz ist cool
