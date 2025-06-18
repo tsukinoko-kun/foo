@@ -1,7 +1,3 @@
 # Foo
 
-- foo
-- bar
-- baz
-
-foo bar baz ist cool
+lorem ipsum dolor sit amet
